@@ -188,7 +188,7 @@ if (user == null) {
 							<label for="discount" class="form-label">Discount</label> <input
 								type="text" class="form-control" id="discount"
 								name="txt_discount">
-<div class="text-danger" id="msg_discount"></div>
+                        <div class="text-danger" id="msg_discount"></div>
 						</div>
 						<div class="mb-3">
 							<label for="photo" class="form-label">Photo</label>
